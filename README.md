@@ -2,11 +2,9 @@
 
 <h3 align="center">Web Developer | Machine Learning Explorer | Creative Technologist</h3>
 
----
 
 I'm a passionate MCA student building thoughtful solutions through the synergy of **Web Development**, **Machine Learning**, and **Creative Coding**. I love crafting beautiful UIs and intelligent systems that make technology more useful, inclusive, and fun!
 
----
 
 ### 🚀 About Me
 
@@ -15,7 +13,6 @@ I'm a passionate MCA student building thoughtful solutions through the synergy o
 - 🧰 My toolbox: `Python`, `React`, `Next.js`, `TensorFlow`, `MongoDB`, `Tailwind CSS`, `Flask`, `GitHub`, and more.
 - 💡 I believe in building projects that speak louder than words.
 
----
 
 ### 📌 Featured Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,14 +24,12 @@ I'm a passionate MCA student building thoughtful solutions through the synergy o
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
----
 
 ### 📫 Let’s Connect!
 - 💌 [Email](mailto:aishwaryasureshkumaar@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-sureshkumaar/)
 - 💻 [GitHub](https://github.com/AishwaryaSureshkumaar)
 
----
 
 ### 🖼️ Fun Fact
 > *"I code with creativity and curiosity. My IDE is my canvas, and logic is my paintbrush!"* 🎨🖥️
